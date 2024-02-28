@@ -1,5 +1,6 @@
 package fr.ecole3il.rodez2023.carte.elements;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Noeud<E> {
@@ -10,7 +11,7 @@ public class Noeud<E> {
 	public Noeud(E valeur) {
 		super();
 		this.valeur = valeur;
-		this.voisin = voisin;
+		this.voisin = new ArrayList<>();
 	}
 	
 	
