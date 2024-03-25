@@ -6,3 +6,5 @@
 **Réponse :** Cela permet d'utiliser des structures de données pour stocker et manipuler ces objets.
 
 **Question :** Pourquoi pensez-vous que la création d'une interface est une bonne pratique dans ce contexte ?
+**Réponse :** modularité, flexibilité, plus facile à tester, séparation des responsabilitées.
+ 
